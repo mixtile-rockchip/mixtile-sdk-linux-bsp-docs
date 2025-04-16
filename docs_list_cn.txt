@@ -52,6 +52,8 @@
 │   │   ├── Rockchip_Developer_Guide_Linux_GMAC_Mode_Configuration_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_GMAC_RGMII_Delayline_CN.pdf
 │   │   └── Rockchip_Developer_Guide_Linux_MAC_TO_MAC_CN.pdf
+│   ├── GPIO
+│   │   └── Rockchip_Developer_Guide_GPIO_CN.pdf
 │   ├── HDMI-IN
 │   │   ├── Rockchip_Developer_Guide_HDMI_IN_Based_On_CameraHal3_CN.pdf
 │   │   └── Rockchip_Developer_Guide_HDMI_RX_CN.pdf
@@ -86,7 +88,7 @@
 │   │   ├── Rockchip_Developer_Guide_SATA_CN.pdf
 │   │   └── Rockchip_Developer_Guide_UFS_CN.pdf
 │   ├── PCIe
-│   │   ├── Rockchip_Developer_Guide_PCIE_EP_Stardard_Card_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_PCIE_EP_Standard_Card_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_PCIe_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_PCIe_Performance_CN.pdf
 │   │   ├── Rockchip_PCIe_Virtualization_Developer_Guide_CN.pdf
@@ -140,6 +142,7 @@
 │   │   ├── Rockchip_Developer_Guide_Trust_CN.pdf
 │   │   ├── Rockchip_RK3308_Developer_Guide_System_Suspend_CN.pdf
 │   │   ├── Rockchip_RK3399_Developer_Guide_System_Suspend_CN.pdf
+│   │   ├── Rockchip_RK3506_Developer_Guide_System_Suspend_CN.pdf
 │   │   ├── Rockchip_RK356X_Developer_Guide_System_Suspend_CN.pdf
 │   │   ├── Rockchip_RK3576_Developer_Guide_System_Suspend_CN.pdf
 │   │   └── Rockchip_RK3588_Developer_Guide_System_Suspend_CN.pdf
@@ -167,7 +170,6 @@
 │       └── Rockchip_Developer_Guide_Linux_WDT_CN.pdf
 ├── Linux
 │   ├── ApplicationNote
-│   │   ├── Rockchip_Developer_Guide_Linux_Flash_Open_Source_Solution_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_RKIPC_CN.pdf
 │   │   ├── Rockchip_Instruction_Linux_ROS2_CN.pdf
 │   │   ├── Rockchip_Instruction_Linux_ROS_CN.pdf
@@ -182,17 +184,17 @@
 │   │   ├── Rockchip_Trouble_Shooting_Linux4.4_Camera_CN.pdf
 │   │   └── Rockchip_Trouble_Shooting_Linux5.10_Camera_CN.pdf
 │   ├── DPDK
-│   │   └── Rockchip_Developer_Guide_Linux_DPDK_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_Linux_DPDK_CN.pdf
+│   │   └── Rockchip_Guide_Linux_DPDK_CN.pdf
 │   ├── Docker
 │   │   ├── Rockchip_Developer_Guide_Debian_Docker_CN.pdf
-│   │   ├── Rockchip_Developer_Guide_Linux_Docker_Deploy_CN.pdf
-│   │   └── Rockchip_User_Guide_SDK_Docker_CN.pdf
+│   │   └── Rockchip_Developer_Guide_Linux_Docker_Deploy_CN.pdf
 │   ├── Graphics
 │   │   ├── Rockchip_Developer_Guide_Buildroot_Weston_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_Graphics_CN.pdf
 │   │   └── Rockchip_Developer_Guide_Linux_LVGL_CN.pdf
 │   ├── Multimedia
-│   │   ├── Rockchip_Developer_Guide_Linux_RKADK_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_Linux_Rkadk_CN.pdf
 │   │   ├── Rockchip_User_Guide_Linux_Gstreamer_CN.pdf
 │   │   └── Rockchip_User_Guide_Linux_Rockit_CN.pdf
 │   ├── Profile
@@ -201,10 +203,8 @@
 │   │   ├── Rockchip_Introduction_Linux_PLT_CN.pdf
 │   │   └── Rockchip_User_Guide_Linux_Software_Test_CN.pdf
 │   ├── Recovery
-│   │   ├── Rockchip_Developer_Guide_Linux_DFU_Upgrade_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_Recovery_CN.pdf
-│   │   ├── Rockchip_Developer_Guide_Linux_Upgrade_CN.pdf
-│   │   └── Rockchip_Introduction_Smart_Screen_OTA_CN.pdf
+│   │   └── Rockchip_Developer_Guide_Linux_Upgrade_CN.pdf
 │   ├── Security
 │   │   └── Rockchip_Developer_Guide_Linux_Secure_Boot_CN.pdf
 │   ├── System
@@ -214,14 +214,10 @@
 │   ├── Uefi
 │   │   └── Rockchip_Developer_Guide_UEFI_CN.pdf
 │   └── Wifibt
-│       ├── AP模组RF测试文档
-│       ├── REALTEK模组RF测试文档
-│       ├── Rockchip_Developer_Guide_Linux_WIFI_BT_CN.pdf
-│       ├── WIFIBT编程接口
-│       └── WIFI性能测试PC工具
+│       ├── Latest-Release-Wifibt-Link.txt
+│       └── Rockchip_Developer_Guide_Linux_WIFI_BT_CN.pdf
 ├── Others
 │   ├── Rockchip_Developer_Guide_Repo_Mirror_Server_Deploy_CN.pdf
 │   ├── Rockchip_User_Guide_Bug_System_CN.pdf
 │   └── Rockchip_User_Guide_SDK_Application_And_Synchronization_CN.pdf
 ├── Rockchip_Developer_Guide_Linux_Software_CN.pdf
-
