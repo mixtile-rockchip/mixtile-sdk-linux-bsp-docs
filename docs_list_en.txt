@@ -7,6 +7,7 @@
 │   ├── DDR
 │   │   └── Rockchip_Developer_Guide_DDR_EN.pdf
 │   ├── DISPLAY
+│   │   ├── HDCP
 │   │   └── Rockchip_Developer_Guide_RK628_For_All_Porting_EN.pdf
 │   ├── DSMC
 │   │   ├── Rockchip_Developer_Guide_DSMC_EN.pdf
@@ -76,7 +77,6 @@
 │       └── Rockchip_Developer_Guide_Linux_WDT_EN.pdf
 ├── Linux
 │   ├── ApplicationNote
-│   │   ├── Rockchip_Developer_Guide_Linux_Flash_Open_Source_Solution_EN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_PCBA_EN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_RKIPC_EN.pdf
 │   │   ├── Rockchip_Instruction_Linux_ROS2_EN.pdf
@@ -94,8 +94,7 @@
 │   │   └── Rockchip_Developer_Guide_Linux_DPDK_EN.pdf
 │   ├── Docker
 │   │   ├── Rockchip_Developer_Guide_Debian_Docker_EN.pdf
-│   │   ├── Rockchip_Developer_Guide_Linux_Docker_Deploy_EN.pdf
-│   │   └── Rockchip_User_Guide_SDK_Docker_EN.pdf
+│   │   └── Rockchip_Developer_Guide_Linux_Docker_Deploy_EN.pdf
 │   ├── Graphics
 │   │   ├── Rockchip_Developer_Guide_Buildroot_Weston_EN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_Graphics_EN.pdf
