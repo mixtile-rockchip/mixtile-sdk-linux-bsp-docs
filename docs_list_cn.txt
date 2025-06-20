@@ -5,11 +5,11 @@
 │   │   └── Rockchip_Developer_Guide_Audio_CN.pdf
 │   ├── AVL
 │   │   ├── Latest-Release-AVL-Link.txt
-│   │   ├── RKNandFlashSupportList_Ver2.73_20180615.pdf
-│   │   ├── RK_SpiNor_and_SLC_Nand_SupportList_V1.51_20241101.pdf
-│   │   ├── RK_UFS_SupportList_V1.01_20241012.pdf
-│   │   ├── RKeMMCSupportList_Ver1.86_20241129.pdf
-│   │   ├── Rockchip_Support_List_DDR_Ver2.64.xlsx
+│   │   ├── RKNandFlashSupportList_V2.73_20180615.pdf
+│   │   ├── RK_SpiNor_and_SLC_Nand_SupportList_V1.54_20250501.pdf
+│   │   ├── RK_UFS_SupportList_Ver1.02_20250314.pdf
+│   │   ├── RKeMMCSupportList_V1.89_20250520.pdf
+│   │   ├── Rockchip_Support_List_DDR_Ver2.65.pdf
 │   │   └── Rockchip_Support_List_Linux_WiFi_BT_Ver1.9_20240329.pdf
 │   ├── CAN
 │   │   ├── Rockchip_Developer_Guide_CAN_FD_CN.pdf
@@ -81,6 +81,8 @@
 │   │   ├── README.pdf
 │   │   └── rknpu2
 │   ├── NVM
+│   │   ├── RK_Vendor_Storage_Application_Note.pdf
+│   │   ├── Rockchip_Application_Notes_Power_Loss_Protection_CN.pdf
 │   │   ├── Rockchip_Application_Notes_Storage_CN.pdf
 │   │   ├── Rockchip_Developer_FAQ_Storage_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Dual_Storage_CN.pdf
@@ -184,8 +186,7 @@
 │   │   ├── Rockchip_Trouble_Shooting_Linux4.4_Camera_CN.pdf
 │   │   └── Rockchip_Trouble_Shooting_Linux5.10_Camera_CN.pdf
 │   ├── DPDK
-│   │   ├── Rockchip_Developer_Guide_Linux_DPDK_CN.pdf
-│   │   └── Rockchip_Guide_Linux_DPDK_CN.pdf
+│   │   └── Rockchip_Developer_Guide_Linux_DPDK_CN.pdf
 │   ├── Docker
 │   │   ├── Rockchip_Developer_Guide_Debian_Docker_CN.pdf
 │   │   └── Rockchip_Developer_Guide_Linux_Docker_Deploy_CN.pdf
