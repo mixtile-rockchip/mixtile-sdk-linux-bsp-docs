@@ -1,18 +1,29 @@
 ├── Common
 │   ├── AMP
 │   │   └── Rockchip_Developer_Guide_AMP_EN.pdf
+│   ├── AUDIO
+│   │   ├── Rockchip_Developer_Guide_Audio_EN.pdf
+│   │   └── Rockchip_Developer_Guide_Linux_RV_Series_ACodec_EN.pdf
 │   ├── AVL -> ../../cn/Common/AVL
 │   ├── CAN
 │   │   ├── Rockchip_Developer_Guide_CAN_EN.pdf
 │   │   └── Rockchip_Developer_Guide_CAN_FD_EN.pdf
+│   ├── CLK
+│   │   ├── Rockchip_Developer_Guide_Clock_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_GPIO_Output_Clocks_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_Pll_Ssmod_Clock_EN.pdf
+│   │   └── Rockchip_RK3399_Developer_Guide_Clock_EN.pdf
 │   ├── CRYPTO
 │   │   └── Rockchip_Developer_Guide_Crypto_HWRNG_EN.pdf
 │   ├── DDR
 │   │   └── Rockchip_Developer_Guide_DDR_EN.pdf
 │   ├── DISPLAY
+│   │   ├── DP
 │   │   ├── DRM
 │   │   ├── HDCP
-│   │   └── RK628
+│   │   ├── LVDS
+│   │   ├── RK628
+│   │   └── eDP
 │   ├── DSMC
 │   │   ├── Rockchip_Developer_Guide_DSMC_EN.pdf
 │   │   └── Rockchip_Developer_Guide_SLAVE_DSMC_EN.pdf
@@ -41,6 +52,8 @@
 │   │   └── The-Latest-Camera-Documents-Link.txt
 │   ├── MCU
 │   │   └── Rockchip_RK3399_Developer_Guide_MCU_EN.pdf
+│   ├── MMC
+│   │   └── Rockchip_Developer_Guide_SDMMC_SDIO_eMMC_EN.pdf
 │   ├── MPP
 │   │   └── Rockchip_Developer_Guide_MPP_EN.pdf
 │   ├── NPU
@@ -49,14 +62,22 @@
 │   ├── NVM
 │   │   ├── Rockchip_Application_Notes_Storage_EN.pdf
 │   │   ├── Rockchip_Application_Notes_VendorStorage_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_Dual_Storage_EN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_Flash_Open_Source_Solution_EN.pdf
-│   │   └── Rockchip_Developer_Guide_Secure_Boot_Application_Note_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_SATA_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_Secure_Boot_Application_Note_EN.pdf
+│   │   └── Rockchip_Developer_Guide_UFS_EN.pdf
 │   ├── PCIe
-│   │   └── Rockchip_Developer_Guide_PCIe_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_PCIE_EP_Standard_Card_APIs_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_PCIE_EP_Standard_Card_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_PCIe_EN.pdf
+│   │   └── Rockchip_Developer_Guide_PCIe_Performance_EN.pdf
 │   ├── PERF
 │   │   └── Rockchip_Developer_Guide_Linux_RealTime_Performance_Test_Report_EN.pdf
 │   ├── PINCTRL
 │   │   └── Rockchip_Developer_Guide_Linux_Pinctrl_EN.pdf
+│   ├── PMIC
+│   │   └── Rockchip_RK801_Developer_Guide_EN.pdf
 │   ├── POWER
 │   │   └── Rockchip_Developer_Guide_Power_Analysis_EN.pdf
 │   ├── PWM
@@ -75,7 +96,8 @@
 │   ├── THERMAL
 │   │   └── Rockchip_Developer_Guide_Thermal_EN.pdf
 │   ├── TOOL
-│   │   └── Rockchip_Introduction_Partition_EN.pdf
+│   │   ├── Rockchip_Introduction_Partition_EN.pdf
+│   │   └── Rockchip_User_Guide_Production_For_Firmware_Download_EN.pdf
 │   ├── TRUST
 │   │   ├── Rockchip_Developer_Guide_Trust_EN.pdf
 │   │   └── Rockchip_RK3308_Developer_Guide_System_Suspend_EN.pdf
@@ -84,7 +106,11 @@
 │   ├── UBOOT
 │   │   └── Rockchip_Developer_Guide_UBoot_Nextdev_EN.pdf
 │   ├── USB
-│   │   └── Rockchip_Developer_Guide_USB_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_USB_EN.pdf
+│   │   ├── Rockchip_RK3399_Developer_Guide_USB_EN.pdf
+│   │   ├── Rockchip_RK356x_Developer_Guide_USB_EN.pdf
+│   │   ├── Rockchip_RK3576_Developer_Guide_USB_EN.pdf
+│   │   └── Rockchip_RK3588_Developer_Guide_USB_EN.pdf
 │   └── WATCHDOG
 │       └── Rockchip_Developer_Guide_Linux_WDT_EN.pdf
 ├── Linux
@@ -113,9 +139,11 @@
 │   │   └── Rockchip_Developer_Guide_Linux_LVGL_EN.pdf
 │   ├── Multimedia
 │   │   ├── Rockchip_Developer_Guide_Linux_Rkadk_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_Linux_Rockit_Runtime_EN.pdf
 │   │   ├── Rockchip_User_Guide_Linux_Gstreamer_EN.pdf
 │   │   └── Rockchip_User_Guide_Linux_Rockit_EN.pdf
 │   ├── Profile
+│   │   ├── Rockchip_Developer_Guide_Linux_PCBA_EN.pdf
 │   │   ├── Rockchip_Introduction_Linux_Benchmark_KPI_EN.pdf
 │   │   └── Rockchip_User_Guide_Linux_Software_Test_EN.pdf
 │   ├── Recovery
