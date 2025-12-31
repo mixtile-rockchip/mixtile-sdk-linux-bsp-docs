@@ -2,15 +2,17 @@
 │   ├── AMP
 │   │   └── Rockchip_Developer_Guide_AMP_CN.pdf
 │   ├── AUDIO
-│   │   └── Rockchip_Developer_Guide_Audio_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_Audio_CN.pdf
+│   │   └── Rockchip_Developer_Guide_Linux_RV_Series_ACodec_CN.pdf
 │   ├── AVL
 │   │   ├── Latest-Release-AVL-Link.txt
-│   │   ├── RKNandFlashSupportList_V2.73_20180615.pdf
-│   │   ├── RK_SpiNor_and_SLC_Nand_SupportList_V1.54_20250501.pdf
-│   │   ├── RK_UFS_SupportList_Ver1.02_20250314.pdf
-│   │   ├── RKeMMCSupportList_V1.89_20250520.pdf
-│   │   ├── Rockchip_Support_List_DDR_Ver2.65.pdf
-│   │   └── Rockchip_Support_List_Linux_WiFi_BT_Ver1.9_20240329.pdf
+│   │   ├── Rockchip_DDR_Approved_Vendor_List_ver3.01.pdf
+│   │   ├── Rockchip_DDR_Reference_Vendor_List_ver3.01.pdf
+│   │   ├── Rockchip_EMMC_Approved_Vendor_List_Ver1.93.pdf
+│   │   ├── Rockchip_Flash_Approved_Vendor_List_Ver2.03.pdf
+│   │   ├── Rockchip_Support_List_Linux_WiFi_BT_Ver2.0_20250619.pdf
+│   │   ├── Rockchip_TYPE-C_and_PD_Support_List.xlsx
+│   │   └── Rockchip_UFS_Approved_Vendor_List_Ver1.04.pdf
 │   ├── CAN
 │   │   ├── Rockchip_Developer_Guide_CAN_FD_CN.pdf
 │   │   └── Rockchip_Developer_Guide_Can_CN.pdf
@@ -90,8 +92,10 @@
 │   │   ├── Rockchip_Developer_Guide_SATA_CN.pdf
 │   │   └── Rockchip_Developer_Guide_UFS_CN.pdf
 │   ├── PCIe
+│   │   ├── Rockchip_Developer_Guide_PCIE_EP_Standard_Card_APIs_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_PCIE_EP_Standard_Card_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_PCIe_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_PCIe_EP_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_PCIe_Performance_CN.pdf
 │   │   ├── Rockchip_PCIe_Virtualization_Developer_Guide_CN.pdf
 │   │   └── Rockchip_RK3399_Developer_Guide_PCIe_CN.pdf
@@ -101,6 +105,7 @@
 │   ├── PINCTRL
 │   │   └── Rockchip_Developer_Guide_Linux_Pinctrl_CN.pdf
 │   ├── PMIC
+│   │   ├── Rockchip_RK801_Developer_Guide_CN.pdf
 │   │   ├── Rockchip_RK805_Developer_Guide_CN.pdf
 │   │   ├── Rockchip_RK806_Developer_Guide_CN.pdf
 │   │   ├── Rockchip_RK808_Developer_Guide_CN.pdf
@@ -181,6 +186,7 @@
 │   │   ├── Algorithms
 │   │   └── Rockchip_Developer_Guide_PulseAudio_CN.pdf
 │   ├── Camera
+│   │   ├── Rockchip_Developer_Guide_Camera_Driver_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux4.4_Camera_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_RMSL_CN.pdf
 │   │   ├── Rockchip_Trouble_Shooting_Linux4.4_Camera_CN.pdf
@@ -196,6 +202,7 @@
 │   │   └── Rockchip_Developer_Guide_Linux_LVGL_CN.pdf
 │   ├── Multimedia
 │   │   ├── Rockchip_Developer_Guide_Linux_Rkadk_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_Linux_Rockit_Runtime_CN.pdf
 │   │   ├── Rockchip_User_Guide_Linux_Gstreamer_CN.pdf
 │   │   └── Rockchip_User_Guide_Linux_Rockit_CN.pdf
 │   ├── Profile
